@@ -1,3 +1,4 @@
+
 # SkyMP
 
 [![Discord Chat](https://img.shields.io/discord/699653182946803722?label=Discord&logo=Discord)](https://discord.gg/MsMSfUjtDp) 
